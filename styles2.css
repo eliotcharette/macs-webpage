@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+}
+
+p {
+  font-size-adjust:30px;
+  color: red;
+  font-weight: 10;
+}
+h2 {
+  color: green;
+}
+ul {
+  color: green;
+  line-height: 15px;
+}
