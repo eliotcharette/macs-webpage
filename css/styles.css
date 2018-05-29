@@ -1,0 +1,13 @@
+.dark-background {
+  background-color: black;
+  color: white;
+}
+.light-background {
+  background-color: white;
+  color: black;
+}
+
+.normal-background{
+  background-color: blue;
+  color: orange;
+}
